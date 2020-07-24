@@ -17,12 +17,16 @@
 <table>
   <tr>
     <td>
+      <img alt="Intro" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-intro.png" width="250px"/>
     </td>
     <td>
+      <img alt="Dashboard" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-dashboard.png" width="250px"/>
     </td>
     <td>
+      <img alt="Plate" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-plate.png" width="250px"/>
     </td>
     <td>
+      <img alt="Favorites" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-favorites.png" width="250px"/>
     </td>
   </tr>
 </table>
