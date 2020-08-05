@@ -1,12 +1,12 @@
 <h3 align="center">
-  <img alt="GoRestaurant" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-logo.png" width="220px"/>
+  <img alt="GoRestaurant" src="https://github.com/gianferreira/goRestaurant-mobile/blob/master/readme-logo.png" height="85px"/>
 </h3>
 
 <h1 align="center">
   GoRestaurant - Mobile
 </h1>
 
-<p align="center">Mobile em React Native da aplicação GoRestaurant.</p>
+<p align="center">Mobile em React Native da aplicação GoRestaurant</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/goRestaurant-mobile">
@@ -86,8 +86,8 @@ yarn start
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o
+  Este projeto foi desenvolvido durante o
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
